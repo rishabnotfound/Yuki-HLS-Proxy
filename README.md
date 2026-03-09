@@ -11,12 +11,7 @@
 <p align="center">
   The ultimate HLS proxy server. Handles **any** HLS stream you throw at it.
   <br />
-<a href="https://vidstack.io/player/demo/?framework=react&view=player&config=%7B%22player%22%3A%7B%22src%22%3A%22h       
-         +ttps%3A%2F%2Fyuki-hls-proxy.vercel.app%2Fm3u8-proxy.m3u8%3Furl%3Dhttps%253A%252F%252Ftest-streams.mux.dev%252Fx36xhzz%252       
-         +Fx36xhzz.m3u8%26headers%3D%7B%2522Referer%2522%3A%2522https%3A%2F%2Fexample.com%2522%7D%22%2C%22viewType%22%3A%22video%22       
-         +%2C%22streamType%22%3A%22on-demand%22%2C%22logLevel%22%3A%22warn%22%2C%22crossOrigin%22%3Atrue%2C%22playsInline%22%3Atrue       
-         +%2C%22title%22%3A%22Yuki-HLS-Player%22%7D%2C%22layout%22%3A%7B%22type%22%3A%22default%22%7D%2C%22hls%22%3A%7B%7D%2C%22das       
-         +h%22%3A%7B%7D%2C%22events%22%3A%5B%22can-play%22%5D%7D&preset=hls">👉 Live Demo 👈</a>
+<a href="https://vidstack.io/player/demo/?framework=react&view=player&config=%7B%22player%22%3A%7B%22src%22%3A%22https%3A%2F%2Fyuki-hls-proxy.vercel.app%2Fm3u8-proxy.m3u8%3Furl%3Dhttps%253A%252F%252Ftest-streams.mux.dev%252Fx36xhzz%252Fx36xhzz.m3u8%26headers%3D%7B%2522Referer%2522%3A%2522https%3A%2F%2Fexample.com%2522%7D%22%2C%22viewType%22%3A%22video%22%2C%22streamType%22%3A%22on-demand%22%2C%22logLevel%22%3A%22warn%22%2C%22crossOrigin%22%3Atrue%2C%22playsInline%22%3Atrue%2C%22title%22%3A%22Yuki-HLS-Player%22%7D%2C%22layout%22%3A%7B%22type%22%3A%22default%22%7D%2C%22hls%22%3A%7B%7D%2C%22dash%22%3A%7B%7D%2C%22events%22%3A%5B%22can-play%22%5D%7D&preset=hls">👉 Live Demo 👈</a>
 </p>
 
 
