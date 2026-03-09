@@ -1,5 +1,7 @@
 services:
   yuki-hls-proxy:
+    container_name: yuki-hls-proxy
+    image: yuki-hls-proxy
     build:
       context: .
       dockerfile: Dockerfile
