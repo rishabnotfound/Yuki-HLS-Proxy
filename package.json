@@ -1,0 +1,26 @@
+{
+  "name": "yuki-hls-proxy",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon src/index.ts",
+    "build": "npx tsc",
+    "start": "node dist/index.js",
+    "test": "node dist/test.js"
+  },
+  "keywords": ["hls", "proxy", "m3u8"],
+  "author": "rishabnotfound",
+  "license": "MIT",
+  "description": "The ultimate HLS proxy server. Handles any HLS stream you throw at it.",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pm2": "^5.4.3",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}
